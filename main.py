@@ -80,3 +80,4 @@ if hotel.available():
         print("There was a problem with your payment")
 else:
     print("Sorry hotel is not available")
+
